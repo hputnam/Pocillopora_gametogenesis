@@ -1,0 +1,23 @@
+coral.ID,site,file.name,series,scale,units,sex,stage,quantity ,notes
+POC-482-20221017,forereef,POC-482-Oct2022-1-testsample.vsi,14,3.6529,microns,female,3,9,
+POC-482-20221017,forereef,POC-482-Oct2022-1-testsample.vsi,14,3.6529,microns,male,2,2,
+POC-482-20221017,forereef,POC-482-Oct2022-1-testsample.vsi,14,3.6529,microns,male,1,1,
+POC-481-20220812,forereef,POC-481-Aug2022-1-testsample.vsi,14,3.6529,microns,NA,NA,NA,blank
+POC-483-20221115,forereef,POC-483-November2022-2-testsample.vsi,14,3.6529,microns,female,3,20,
+POC-483-20221116,forereef,POC-483-November2022-2-testsample.vsi,14,3.6529,microns,male,2,5,
+POC-483-20221117,forereef,POC-483-November2022-2-testsample.vsi,14,3.6529,microns,male,3,6,
+POC-473-20220126,backreef,POC-473_LAG_20220126_1.vsi,"14, 21",3.6529,microns,NA,NA,NA,NA
+POC-477-20220812,forereef,POC477_FOR_20220812_1.vsi,14,3.6529,microns,,,,
+POC-477-20220812,forereef,POC477_FOR_20220812_1.vsi and POC477_FOR_20220812_2.vsi,"14, 21",3.6529,microns,male,1,4,
+POC-477-20220930,forereef,POC477_FOR_20220930_1.vsi,14,3.6529,microns,female,1,2,
+POC-477-20220930,forereef,POC477_FOR_20220930_1.vsi,14,3.6529,microns,female,2,6,
+POC-477-20220930,forereef,POC477_FOR_20220930_1.vsi,14,3.6529,microns,female,3,11,
+POC-477-20220930,forereef,POC477_FOR_20220930_1.vsi,14,3.6529,microns,male,2,5,
+POC-477-20221017,forereef,POC_477_FOR_20221017_1.vsi,14,3.6529,microns,female,2,1,
+POC-477-20221017,forereef,POC_477_FOR_20221017_1.vsi,14,3.6529,microns,female,3,28,
+POC-477-20221017,forereef,POC_477_FOR_20221017_1.vsi,14,3.6529,microns,male,2,7,
+POC-477-20221110,forereef,POC_477_FOR_20221110_1.vsi,14,3.6529,microns,female,3,25,
+POC-477-20221110,forereef,POC_477_FOR_20221110_1.vsi,14,3.6529,microns,male,2,2,
+POC-477-20221110,forereef,POC_477_FOR_20221110_1.vsi,14,3.6529,microns,male,3,5,
+POC-477-20221110,forereef,POC_477_FOR_20221110_1.vsi,14,3.6529,microns,male,4,1,
+POC-478-20220217,forereef,POC_478_FOR_20220217_1.vsi,14,3.6529,microns,,,,
